@@ -1,5 +1,5 @@
 # How to Install? 
-$ git clone https://github.com/Bomiro/Whatsapp-Bot-chatgpt <br>
+$ git clone https://github.com/bomi3/morocco.openai <br>
 $ cd whatsapp-chatgpt <br>
 $ npm install <br>
 $ node index.js <br>
