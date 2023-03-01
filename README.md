@@ -1,6 +1,6 @@
 # How to Install? 
 $ git clone https://github.com/bomi3/morocco.openai <br>
-$ cd whatsapp-chatgpt <br>
+$ cd morocco.openai <br>
 $ npm install <br>
 $ node index.js <br>
 
